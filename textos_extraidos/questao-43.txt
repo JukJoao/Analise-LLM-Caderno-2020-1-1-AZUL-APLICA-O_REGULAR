@@ -1,0 +1,26 @@
+[L-01] Questão 43 enem2020enem2020enem2020enem2020
+[L-02] Quando quis agilizar o processo de seleção de
+[L-03] novos alunos, a tradicional faculdade britânica de
+[L-04] medicina St. George usou um software para definir
+[L-05] quem deveria ser entrevistado. Ao reproduzir a forma
+[L-06] como os funcionários faziam essa escolha, o programa
+[L-07] eliminou, de cara, 60 de 2 000 candidatos. Só por causa
+[L-08] do sexo ou da origem racial, numa dedução baseada
+[L-09] em sobrenome e local de nascimento. Um estudo sobre
+[L-10] o caso foi publicado em 1988, mas, 25 anos depois
+[L-11] outra pesquisa apontou que esse tipo de discriminação
+[L-12] segue firme. O exemplo recente envolve o buscador
+[L-13] do Google: ao digitar nomes comuns entre negros dos
+[L-14] EUA, a chance de os anúncios automáticos oferecerem
+[L-15] checagem de antecedentes criminais pode aumentar
+[L-16] 25%. E pode piorar com a pergunta "detido?" logo após a
+[L-17] palavra procurada.
+[L-18] Disponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado)
+[L-19] O texto permite o desnudamento da sociedade ao
+[L-20] relacionar as tecnologias de informação e comunicação
+[L-21] com o(a)
+[L-22] A agilidade dos softwares.
+[L-23] B passar dos anos.
+[L-24] C linguagem.
+[L-25] D preconceito.
+[L-26] E educação.
